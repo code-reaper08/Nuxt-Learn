@@ -1,6 +1,6 @@
 <template>
 <div>
-   <!-- <Tutorial/> -->
+   <NuxtLogo />
   <NuxtLink to="/about">About</NuxtLink>
 </div>
  
